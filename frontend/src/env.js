@@ -1,0 +1,1 @@
+exports.REMOTE_SERVER = 'http://localhost:4000';
